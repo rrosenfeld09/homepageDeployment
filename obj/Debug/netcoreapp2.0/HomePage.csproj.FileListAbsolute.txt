@@ -1,0 +1,20 @@
+/Users/richardrosenfeld/Desktop/HomePage/bin/Debug/netcoreapp2.0/HomePage.deps.json
+/Users/richardrosenfeld/Desktop/HomePage/bin/Debug/netcoreapp2.0/HomePage.runtimeconfig.json
+/Users/richardrosenfeld/Desktop/HomePage/bin/Debug/netcoreapp2.0/HomePage.runtimeconfig.dev.json
+/Users/richardrosenfeld/Desktop/HomePage/bin/Debug/netcoreapp2.0/HomePage.dll
+/Users/richardrosenfeld/Desktop/HomePage/bin/Debug/netcoreapp2.0/HomePage.pdb
+/Users/richardrosenfeld/Desktop/HomePage/obj/Debug/netcoreapp2.0/HomePage.csproj.CoreCompileInputs.cache
+/Users/richardrosenfeld/Desktop/HomePage/obj/Debug/netcoreapp2.0/HomePage.AssemblyInfoInputs.cache
+/Users/richardrosenfeld/Desktop/HomePage/obj/Debug/netcoreapp2.0/HomePage.AssemblyInfo.cs
+/Users/richardrosenfeld/Desktop/HomePage/obj/Debug/netcoreapp2.0/HomePage.dll
+/Users/richardrosenfeld/Desktop/HomePage/obj/Debug/netcoreapp2.0/HomePage.pdb
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/bin/Debug/netcoreapp2.0/HomePage.deps.json
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/bin/Debug/netcoreapp2.0/HomePage.runtimeconfig.json
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/bin/Debug/netcoreapp2.0/HomePage.runtimeconfig.dev.json
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/bin/Debug/netcoreapp2.0/HomePage.dll
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/bin/Debug/netcoreapp2.0/HomePage.pdb
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/obj/Debug/netcoreapp2.0/HomePage.csproj.CoreCompileInputs.cache
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/obj/Debug/netcoreapp2.0/HomePage.AssemblyInfoInputs.cache
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/obj/Debug/netcoreapp2.0/HomePage.AssemblyInfo.cs
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/obj/Debug/netcoreapp2.0/HomePage.dll
+/Users/richardrosenfeld/Documents/Learning/Coding Dojo/Portfolio/HomePage/obj/Debug/netcoreapp2.0/HomePage.pdb
